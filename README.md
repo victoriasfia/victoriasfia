@@ -2,7 +2,7 @@
 
 - Estudante de **Sistemas de Informação** na FAESA | 2º período  
 - Atualmente aprendendo **Java** com foco em **Backend**
-- Estudando sobre **Rede de Computadores**
+- Estudando sobre **Rede de Computadores** e **Mysql**
 - Buscando minha primeira oportunidade de estágio em **TI**  
 
 ---
