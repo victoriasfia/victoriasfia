@@ -5,7 +5,7 @@
 ---
 
 ## 🛠️ Tecnologias e Ferramentas:
-- 💻 **Linguagens**: Java, Python (básico)
+- 💻 **Linguagens**: Java, Python - básico
 - 🔧 **Ferramentas**: GitHub, VS Code, IntelliJ IDEA
 
 ---
