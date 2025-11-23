@@ -1,11 +1,11 @@
 # 👋 Olá, eu sou a Victoria!
 
 - Estudante de **Sistemas de Informação** na FAESA | 3º período  
-- Atualmente aprendendo **Java** e **Mysql**
+- Atualmente aprendendo **Java**
 ---
 
 ## 🛠️ Tecnologias e Ferramentas:
-- 💻 **Linguagens**: Java, Python - básico
+- 💻 **Linguagens**: Java, Python
 - 🔧 **Ferramentas**: GitHub, VS Code, IntelliJ IDEA
 
 ---
