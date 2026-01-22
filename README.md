@@ -36,7 +36,7 @@ Um sistema completo para gestão de entradas DNS, focado em performance e arquit
 
 ### 📚 Estudos Atuais
 
-* Aprofundamento em **Java** (POO e Estruturas de Dados).
+* Aprofundamento em **Python**.
 * Arquitetura de Software e Microsserviços.
 * Boas práticas de DevOps e Containerização.
 
