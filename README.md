@@ -2,7 +2,7 @@
 
 ### 👩‍💻 Estagiária de Desenvolvimento | Estudante de Sistemas de Informação
 
-Atualmente estou no **4.º período** da faculdade e atuo como estagiária, onde aplico os meus conhecimentos em desafios reais de desenvolvimento.
+Atualmente estou no **4.º período** da faculdade (FAESA) e atuo como estagiária (PRODEST), onde aplico os meus conhecimentos em desafios reais de desenvolvimento.
 
 ---
 
