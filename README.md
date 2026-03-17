@@ -2,7 +2,7 @@
 
 ### 👩‍💻 Estagiária de Desenvolvimento | Estudante de Sistemas de Informação
 
-Atualmente estou no **4.º período** da faculdade e atuo como estagiária, onde aplico os meus conhecimentos em desafios reais de desenvolvimento e infraestrutura. O meu foco está na construção de soluções eficientes e na automação de processos.
+Atualmente estou no **4.º período** da faculdade e atuo como estagiária, onde aplico os meus conhecimentos em desafios reais de desenvolvimento.
 
 ---
 
@@ -12,7 +12,7 @@ Tenho experiência prática com ambientes corporativos (incluindo WSL e Linux) e
 
 * **Linguagens:** Java, Python, JavaScript (Node.js).
 * **Backend & APIs:** FastAPI.
-* **Infraestrutura & DevOps:** Podman (Containers), Git, WSL (Windows Subsystem for Linux).
+* **Infraestrutura & DevOps:** Podman (Containers), Git, WSL (Windows Subsystem for Linux), GitOps.
 * **Outros:** YAML (Configuração e Persistência de dados), Estruturas de Dados.
 
 ---
@@ -25,11 +25,11 @@ Tenho experiência prática com ambientes corporativos (incluindo WSL e Linux) e
 Um sistema completo para gestão de entradas DNS, focado em performance e arquitetura distribuída.
 
 * **O que faz:** Permite o gerenciamento de registos DNS com processamento assíncrono.
-* **O meu papel:** Atuei em todo o ciclo de desenvolvimento (Fullstack), desde a arquitetura até à implementação.
+* **O meu papel:** Atuei em todo o ciclo de desenvolvimento (Fullstack).
 * **Tech Stack:**
-    * **Backend:** Python com **FastAPI**.
+    * **Backend:** Python (FastAPI) & RabbitMQ (Mensageria).
     * **Frontend/Runtime:** Node.js.
-    * **Infraestrutura:** Containers gerenciados com **Podman** em ambiente **WSL**.
+    * **Infraestrutura:** Containers (Podman), ambiente WSL e cultura GitOps.
     * **Dados:** Persistência de dados estruturada em arquivos **YAML**.
 
 ---
@@ -37,8 +37,10 @@ Um sistema completo para gestão de entradas DNS, focado em performance e arquit
 ### 📚 Estudos Atuais
 
 * Aprofundamento em **Python**.
-* Arquitetura de Software e Microsserviços.
-* Boas práticas de DevOps e Containerização.
+* Boas práticas de DevOps.
+* Microsserviços e mensageria.
+* Implementação de OAuth2 e práticas de DevSecOps.
+* Aprofundamento em Kubernetes e OpenShift.
 
 ---
 
