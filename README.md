@@ -10,10 +10,8 @@ Atualmente estou no **4.º período** da faculdade (FAESA) e atuo como estagiár
 
 Tenho experiência prática com ambientes corporativos (incluindo WSL e Linux) e desenvolvimento fullstack.
 
-* **Linguagens:** Java, Python, JavaScript (Node.js).
+* **Linguagens:** Java, Python
 * **Backend & APIs:** FastAPI.
-* **Infraestrutura & DevOps:** Podman (Containers), Git, WSL (Windows Subsystem for Linux), GitOps.
-* **Outros:** YAML (Configuração e Persistência de dados), Estruturas de Dados.
 
 ---
 
